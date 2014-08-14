@@ -1,0 +1,16 @@
+newmtl GE_Mission_Pique_DiamSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.99 0.99 0.99
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl GE_Mission_Pique_DiamSG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 0.41 0.41 0.41
+Ni 1.00
+Ks 1.20 1.20 1.20
+Ns 20.63

@@ -1,0 +1,24 @@
+newmtl Ge_Mission_Outpost_Drill_karavan_stepSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 3.66
+newmtl Ge_Mission_Outpost_Drill_karavan_stepSG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Ge_Mission_Outpost_Drill_karavan_stepSG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.66 0.61 0.56
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00

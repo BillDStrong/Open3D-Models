@@ -1,0 +1,32 @@
+newmtl Box01SG
+illum 4
+Kd 0.19 0.47 0.55
+Ka 0.06 0.16 0.18
+Tf 0.52 0.52 0.52
+Ni 1.00
+Ks 0.04 0.04 0.04
+Ns 3.66
+newmtl mektoub2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.45 0.43 0.28
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl mektoub2SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.90 0.90 0.90
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.05 0.05 0.05
+Ns 3.66
+newmtl mektoub2SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.90 0.90 0.90
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.05 0.05 0.05
+Ns 3.66

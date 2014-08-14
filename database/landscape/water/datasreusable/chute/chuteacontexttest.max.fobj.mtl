@@ -1,0 +1,48 @@
+newmtl ChuteASG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 49.98
+newmtl water_allSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.50 0.55 0.78
+Tf 0.49 0.49 0.49
+Ni 1.00
+Ks 0.04 0.04 0.04
+Ns 3.66
+newmtl water_bassinSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.50 0.55 0.78
+Tf 0.49 0.49 0.49
+Ni 1.00
+Ks 0.04 0.04 0.04
+Ns 3.66
+newmtl water_bassindnuitSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.50 0.55 0.78
+Tf 0.49 0.49 0.49
+Ni 1.00
+Ks 0.04 0.04 0.04
+Ns 3.66
+newmtl water_chutescanopeeSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.50 0.55 0.78
+Tf 0.49 0.49 0.49
+Ni 1.00
+Ks 0.04 0.04 0.04
+Ns 3.66
+newmtl water_maraisSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.24 0.63 0.22
+Tf 0.49 0.49 0.49
+Ni 1.00
+Ks 0.04 0.04 0.04
+Ns 3.66

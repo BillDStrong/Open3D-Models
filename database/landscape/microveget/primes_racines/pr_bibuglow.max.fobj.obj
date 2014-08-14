@@ -1,0 +1,17 @@
+# This file uses meters as units for non-parametric coordinates.
+
+mtllib pr_bibuglow.max.fobj.mtl
+g default
+v 16.839275 112.762693 3.394779
+v -0.464153 -9.376824 0.462105
+v -17.735764 93.070760 -2.569561
+vt 0.218673 0.200048
+vt 0.092453 0.002872
+vt 0.093725 0.199010
+vn 0.170247 -0.000458 -0.985401
+vn 0.170247 -0.000458 -0.985401
+vn 0.170247 -0.000458 -0.985401
+s off
+g Pr_bibuglow
+usemtl Pr_bibuglowSG
+f 1/1/1 2/2/2 3/3/3

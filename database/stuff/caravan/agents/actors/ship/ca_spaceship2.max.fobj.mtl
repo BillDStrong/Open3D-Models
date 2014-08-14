@@ -1,0 +1,32 @@
+newmtl ca_spaceship2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.28 0.28 0.27
+Ns 32.30
+newmtl ca_spaceship2SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.24 0.25 0.23
+Ns 30.00
+newmtl ca_spaceship2SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.24 0.25 0.23
+Ns 30.00
+newmtl ca_spaceship2SG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.25 0.26 0.25
+Ns 30.00

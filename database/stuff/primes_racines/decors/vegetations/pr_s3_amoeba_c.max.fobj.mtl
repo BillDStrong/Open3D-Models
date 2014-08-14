@@ -1,0 +1,56 @@
+newmtl PR_S3_amoeba_CSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.87 0.80 0.95
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.05 0.05 0.05
+Ns 3.66
+newmtl PR_S3_amoeba_CSG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.78 0.66 0.92
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.05 0.05 0.05
+Ns 3.66
+newmtl PR_S3_amoeba_CSG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.41 0.67 0.67
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl PR_S3_amoeba_CSG3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.41 0.67 0.67
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl PR_S3_amoeba_CSG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.87 0.80 0.95
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.05 0.05 0.05
+Ns 3.66
+newmtl PR_S3_amoeba_CSG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.78 0.66 0.92
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.05 0.05 0.05
+Ns 3.66
+newmtl PR_S3_amoeba_C_XSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.06 0.16 0.18
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.04 0.04 0.04
+Ns 3.66

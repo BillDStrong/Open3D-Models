@@ -1,0 +1,32 @@
+newmtl PR_S3_ploomweed_ASG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.98 0.98 0.98
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl PR_S3_ploomweed_ASG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl PR_S3_ploomweed_ASG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.54 0.80 0.86
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl PR_S3_ploomweed_A_XSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.10 0.10 0.10
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00

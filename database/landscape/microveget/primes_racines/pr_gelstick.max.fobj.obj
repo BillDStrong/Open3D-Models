@@ -1,0 +1,20 @@
+# This file uses meters as units for non-parametric coordinates.
+
+mtllib pr_gelstick.max.fobj.mtl
+g default
+v 27.345908 0.434086 -1.243371
+v 2.794904 103.799811 -1.243372
+v -25.152069 -0.159734 5.701791
+vt 0.004267 0.110487
+vt 0.004267 0.488898
+vt 0.339409 0.294630
+vt 0.338084 0.319789
+vt 0.029268 0.490297
+vt 0.339318 0.489585
+vn 0.130743 0.031053 0.990930
+vn 0.130743 0.031053 0.990930
+vn 0.130743 0.031053 0.990930
+s off
+g Pr_Gelstick
+usemtl Pr_GelstickSG
+f 1/4/1 2/5/2 3/6/3

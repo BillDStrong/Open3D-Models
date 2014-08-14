@@ -1,0 +1,16 @@
+newmtl ge_mission_temple_of_jenaSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.96 0.93 0.71
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl ge_mission_temple_of_jenaSG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00

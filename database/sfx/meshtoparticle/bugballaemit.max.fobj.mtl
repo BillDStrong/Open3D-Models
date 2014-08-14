@@ -1,0 +1,24 @@
+newmtl BugBallAEmit01SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.46 0.31 0.22
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.71 0.61 0.54
+Ns 14.00
+newmtl BugBallAEmit02SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.46 0.31 0.22
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.71 0.61 0.54
+Ns 14.00
+newmtl BugBallAEmit03SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.46 0.31 0.22
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.71 0.61 0.54
+Ns 14.00

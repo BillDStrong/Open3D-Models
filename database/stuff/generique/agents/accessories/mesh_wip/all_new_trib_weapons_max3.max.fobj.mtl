@@ -1,0 +1,152 @@
+newmtl GE_Wea_h10SG
+illum 4
+Kd 0.58 0.58 0.58
+Ka 0.58 0.58 0.58
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.04 0.04 0.04
+Ns 0.00
+newmtl GE_Wea_h11SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.04 0.04 0.04
+Ns 0.00
+newmtl GE_Wea_h12SG
+illum 4
+Kd 0.58 0.58 0.58
+Ka 0.58 0.58 0.58
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.04 0.04 0.04
+Ns 0.00
+newmtl GE_Wea_h13SG
+illum 4
+Kd 0.58 0.58 0.58
+Ka 0.58 0.58 0.58
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.04 0.04 0.04
+Ns 0.00
+newmtl GE_Wea_h14SG
+illum 4
+Kd 0.58 0.58 0.58
+Ka 0.58 0.58 0.58
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.04 0.04 0.04
+Ns 0.00
+newmtl GE_Wea_h15SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.04 0.04 0.04
+Ns 0.00
+newmtl GE_Wea_h16SG
+illum 4
+Kd 0.58 0.58 0.58
+Ka 0.58 0.58 0.58
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.04 0.04 0.04
+Ns 0.00
+newmtl GE_Wea_h17SG
+illum 4
+Kd 0.58 0.58 0.58
+Ka 0.58 0.58 0.58
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.04 0.04 0.04
+Ns 0.00
+newmtl GE_Wea_hi0SG
+illum 4
+Kd 0.58 0.58 0.58
+Ka 0.58 0.58 0.58
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.04 0.04 0.04
+Ns 0.00
+newmtl GE_Wea_hi1SG
+illum 4
+Kd 0.58 0.58 0.58
+Ka 0.58 0.58 0.58
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.04 0.04 0.04
+Ns 0.00
+newmtl GE_Wea_hi2SG
+illum 4
+Kd 0.58 0.58 0.58
+Ka 0.58 0.58 0.58
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.04 0.04 0.04
+Ns 0.00
+newmtl GE_Wea_hi3SG
+illum 4
+Kd 0.58 0.58 0.58
+Ka 0.58 0.58 0.58
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.04 0.04 0.04
+Ns 0.00
+newmtl GE_Wea_hi4SG
+illum 4
+Kd 0.58 0.58 0.58
+Ka 0.58 0.58 0.58
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.04 0.04 0.04
+Ns 0.00
+newmtl GE_Wea_hi5SG
+illum 4
+Kd 0.58 0.58 0.58
+Ka 0.58 0.58 0.58
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.04 0.04 0.04
+Ns 0.00
+newmtl GE_Wea_hi6SG
+illum 4
+Kd 0.58 0.58 0.58
+Ka 0.58 0.58 0.58
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.04 0.04 0.04
+Ns 0.00
+newmtl GE_Wea_hi7SG
+illum 4
+Kd 0.58 0.58 0.58
+Ka 0.58 0.58 0.58
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.04 0.04 0.04
+Ns 0.00
+newmtl GE_Wea_hi8SG
+illum 4
+Kd 0.58 0.58 0.58
+Ka 0.58 0.58 0.58
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.04 0.04 0.04
+Ns 0.00
+newmtl GE_Wea_hi9SG
+illum 4
+Kd 0.58 0.58 0.58
+Ka 0.58 0.58 0.58
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.04 0.04 0.04
+Ns 0.00
+newmtl GE_Wea_higSG
+illum 4
+Kd 0.58 0.58 0.58
+Ka 0.58 0.58 0.58
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.04 0.04 0.04
+Ns 0.00

@@ -1,0 +1,24 @@
+newmtl GE_acc_balle_01SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.50 0.25 0.26
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.05 0.05 0.05
+Ns 3.66
+newmtl GE_acc_balle_01SG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.26 0.50 0.25
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.05 0.05 0.05
+Ns 3.66
+newmtl GE_acc_balle_01SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.25 0.25 0.50
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.05 0.05 0.05
+Ns 3.66

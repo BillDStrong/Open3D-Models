@@ -1,0 +1,24 @@
+newmtl tr_acc_tableSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.05 0.05 0.05
+Ns 3.66
+newmtl tr_acc_tableSG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.05 0.05 0.05
+Ns 3.66
+newmtl tr_acc_tableSG2
+illum 4
+Kd 0.75 0.96 0.97
+Ka 0.75 0.96 0.97
+Tf 0.50 0.50 0.50
+Ni 1.00
+Ks 0.13 0.12 0.29
+Ns 3.66

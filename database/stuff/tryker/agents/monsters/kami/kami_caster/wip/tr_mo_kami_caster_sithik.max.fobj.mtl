@@ -1,0 +1,32 @@
+newmtl tr_mo_kami_casterSG
+illum 4
+Kd 0.58 0.70 0.47
+Ka 0.21 0.18 0.06
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.04 0.04 0.04
+Ns 3.66
+newmtl tr_mo_kami_casterSG2
+illum 4
+Kd 0.43 0.46 0.22
+Ka 0.21 0.18 0.06
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.04 0.04 0.04
+Ns 3.66
+newmtl tr_mo_kami_casterSG3
+illum 4
+Kd 0.41 0.54 0.32
+Ka 0.21 0.18 0.06
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.04 0.04 0.04
+Ns 3.66
+newmtl tr_mo_kami_casterSG11
+illum 4
+Kd 0.87 1.00 0.50
+Ka 0.87 1.00 0.50
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.60 0.69 0.34
+Ns 4.50

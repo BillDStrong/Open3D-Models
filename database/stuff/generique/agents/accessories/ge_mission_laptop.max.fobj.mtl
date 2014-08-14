@@ -1,0 +1,24 @@
+newmtl GE_Mission_laptopSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.28 0.28 0.28
+Ns 27.86
+newmtl GE_Mission_laptopSG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.22 0.22 0.22
+Ns 27.86
+newmtl GE_Mission_laptopSG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.67 0.67 0.67
+Ns 27.86

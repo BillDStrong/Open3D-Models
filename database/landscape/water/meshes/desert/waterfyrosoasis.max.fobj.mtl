@@ -1,0 +1,32 @@
+newmtl WaterOasisEcume01SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.31 0.36 0.26
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl WaterOasisEcume02SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.31 0.36 0.26
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Water_Fyros_Oasis01SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Water_Fyros_Oasis02SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00

@@ -1,0 +1,24 @@
+newmtl TR_HOM_cheveux_medium03SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl TR_HOM_visageSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.73 0.73 0.73
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl TR_HOM_visageSG1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.73 0.73 0.73
+Tf 0.00 0.00 0.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00

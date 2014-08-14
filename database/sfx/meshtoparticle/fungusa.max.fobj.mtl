@@ -1,0 +1,48 @@
+newmtl FungusA01SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.99 0.99 0.99
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.38 0.42 0.44
+Ns 2.59
+newmtl FungusA02SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.99 0.99 0.99
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.38 0.42 0.44
+Ns 2.59
+newmtl FungusA03SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.99 0.99 0.99
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.38 0.42 0.44
+Ns 2.59
+newmtl FungusA04SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.99 0.99 0.99
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.38 0.42 0.44
+Ns 2.59
+newmtl FungusA05SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.99 0.99 0.99
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.38 0.42 0.44
+Ns 2.59
+newmtl FungusA06SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.99 0.99 0.99
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.38 0.42 0.44
+Ns 2.59
